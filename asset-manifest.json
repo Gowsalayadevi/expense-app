@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gowsalayadevi/expense-app/static/css/main.abd64e84.css",
+    "main.js": "/Gowsalayadevi/expense-app/static/js/main.a6dc836e.js",
+    "static/js/787.0a10ec7e.chunk.js": "/Gowsalayadevi/expense-app/static/js/787.0a10ec7e.chunk.js",
+    "index.html": "/Gowsalayadevi/expense-app/index.html",
+    "main.abd64e84.css.map": "/Gowsalayadevi/expense-app/static/css/main.abd64e84.css.map",
+    "main.a6dc836e.js.map": "/Gowsalayadevi/expense-app/static/js/main.a6dc836e.js.map",
+    "787.0a10ec7e.chunk.js.map": "/Gowsalayadevi/expense-app/static/js/787.0a10ec7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.a6dc836e.js"
+  ]
+}
